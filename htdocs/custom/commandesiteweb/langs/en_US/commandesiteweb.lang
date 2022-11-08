@@ -1,0 +1,53 @@
+# Copyright (C) 2022 SuperAdmin <adovi@yuupee.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleCommandeSiteWebName'
+ModuleCommandeSiteWebName = CommandeSiteWeb
+# Module description 'ModuleCommandeSiteWebDesc'
+ModuleCommandeSiteWebDesc = CommandeSiteWeb description
+
+#
+# Admin page
+#
+CommandeSiteWebSetup = CommandeSiteWeb setup
+Settings = Settings
+CommandeSiteWebSetupPage = CommandeSiteWeb setup page
+COMMANDESITEWEB_MYPARAM1 = My param 1
+COMMANDESITEWEB_MYPARAM1Tooltip = My param 1 tooltip
+COMMANDESITEWEB_MYPARAM2=My param 2
+COMMANDESITEWEB_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+CommandeSiteWebAbout = About CommandeSiteWeb
+CommandeSiteWebAboutPage = CommandeSiteWeb about page
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
