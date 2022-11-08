@@ -5,11 +5,11 @@
 // Take a look at conf.php.example file for an example of conf.php file
 // and explanations for all possibles parameters.
 //
-$dolibarr_main_url_root='http://localhost/dolibarr15/htdocs';
-$dolibarr_main_document_root='/Applications/MAMP/htdocs/dolibarr15/htdocs';
+$dolibarr_main_url_root='http://3.12.66.30/dolibar-yuupee/htdocs';
+$dolibarr_main_document_root='/var/www/html/dolibar-yuupee/htdocs';
 $dolibarr_main_url_root_alt='/custom';
-$dolibarr_main_document_root_alt='/Applications/MAMP/htdocs/dolibarr15/htdocs/custom';
-$dolibarr_main_data_root='/Applications/MAMP/htdocs/dolibarr15/documents';
+$dolibarr_main_document_root_alt='/var/www/html/dolibar-yuupee/htdocs/custom';
+$dolibarr_main_data_root='/var/www/html/dolibar-yuupee/documents';
 $dolibarr_main_db_host='localhost';
 $dolibarr_main_db_port='3306';
 $dolibarr_main_db_name='yuupee_dolibarr';
