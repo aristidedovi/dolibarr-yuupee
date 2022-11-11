@@ -5,7 +5,7 @@
 // Take a look at conf.php.example file for an example of conf.php file
 // and explanations for all possibles parameters.
 //
-$dolibarr_main_url_root='http://3.12.66.30/dolibar-yuupee/htdocs';
+$dolibarr_main_url_root='http://localhost/dolibar-yuupee/htdocs';
 $dolibarr_main_document_root='/var/www/html/dolibar-yuupee/htdocs';
 $dolibarr_main_url_root_alt='/custom';
 $dolibarr_main_document_root_alt='/var/www/html/dolibar-yuupee/htdocs/custom';
